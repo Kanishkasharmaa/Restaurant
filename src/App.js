@@ -3,7 +3,7 @@ import React from 'react'
 import Restaurant from './componentBasics/restaurant'
 
 const App = () => {
-  return <restaurant />;
+  return <Restaurant />;
 };
 
 export default App
